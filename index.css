@@ -1,0 +1,68 @@
+body {
+    background-image: url("Soccer-background.jpg");
+    background-size: cover;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    margin-top: 100px;
+}
+
+.container{    
+    background: rgba(15, 15, 15, .80);
+    max-width: 80%;
+    margin: auto;
+    border: 1px solid #FAA633;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+h2 {
+    font-size: 50px;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+button {
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: 500;
+    width: 200px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #142529;
+    font-size: 1.2em; 
+    letter-spacing: 2px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#save-btn {
+    background: #FAA633;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+#save-el {
+    font-size: 1.2em;
+    color: #fff;
+    margin: auto;
+    padding-bottom: 40px;    
+}
+
